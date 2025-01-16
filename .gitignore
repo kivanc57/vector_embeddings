@@ -1,0 +1,7 @@
+venv/
+dbs/
+.env
+__pycache__/
+data/
+output/
+test/

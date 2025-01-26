@@ -1,4 +1,4 @@
-# 🎯 Vector Embedding & CRUD Operations with ChromaDB and Gemini AI
+# 🎯 Vector Embeddings
 
 ## 📌 Overview
 

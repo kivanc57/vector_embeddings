@@ -113,13 +113,14 @@ collection.upsert(ids=[video_id], documents=[response.text])
 
 ---
 
-## 💡 Future Enhancements
+## 📜 License <a id="license"></a>
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](https://github.com/kivanc57/vector_embeddings/blob/main/LICENSE) file for details.
 
-- Support for **multilingual embeddings**
-- Integration with **speech-to-text models**
-- Implementing **batch processing** for large video datasets
+---
 
-### **👨‍💻 Author**
+## 📬 Contact <a id="contact"></a>
 
-Maintained by **@kivanc57**\
-Feel free to contribute or suggest improvements! 🚀
+For any inquiries or contributions, please feel free to reach out.
+- **GitHub Profile**: [kivanc57](https://github.com/kivanc57)
+- **Email**: [kivancgordu@hotmail.com](mailto:kivancgordu@hotmail.com)
+
